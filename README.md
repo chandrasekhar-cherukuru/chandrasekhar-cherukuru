@@ -105,20 +105,7 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 
 </div>
 
----
-
-## 🗣️ Languages
-
-`English` `Telugu` `Hindi`
-
----
-
-## 💪 Strengths
-
-- Positive Attitude
-- Social Interaction
-- Hardworking & Dedicated to Excellence
-
+--
 ---
 
 ## 📫 Let's Connect!
