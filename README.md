@@ -93,17 +93,12 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 
 ---
 
-## 📊 GitHub Stats
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrasekhar-cherukuru&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=chandrasekhar-cherukuru&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandrasekhar-cherukuru&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853)
-
-![Activity Overview](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=chandrasekhar-cherukuru&theme=just&hide_border=true&bg_color=0D1117&title_color=00C853&stats_color=00C853&stats_text_color=FFFFFF)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrasekhar-cherukuru&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF&rank_icon=github)
 
 </div>
 
@@ -123,8 +118,6 @@ I'm always open to discussing new projects, creative ideas, or opportunities to 
 
 ---
 
-<div align="center">
-  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=chandrasekhar-cherukuru&color=00C853&style=flat-square)
