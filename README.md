@@ -83,17 +83,6 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 
 ---
 
-## 🎓 Education
-
-| Degree | Specialization | Institute | Year | CGPA/Score |
-|--------|----------------|-----------|------|------------|
-| **B.Tech** | Computer Science & Engineering | NEC Nellore | 2022-Present | 8.9 |
-| **MPC BIEAP** | Maths, Physics, & Chemistry | Narayana College | 2022 | 7.3 |
-| **SSC** | - | Ratnam High School | 2020 | 9.8 |
-
----
-
-
 <div align="center">
 
 
