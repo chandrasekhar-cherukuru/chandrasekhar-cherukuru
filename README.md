@@ -21,7 +21,7 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 ## 💼 Work Experience
 
 ### **Backend Development Intern** | Goloka IT
-*Sep 2025 – Present*
+*Sep 2025 – Nov 2025*
 
 - Contributing to **production-ready backend development** for live client-facing application using **Spring Boot** and **Java**, implementing scalable REST APIs with **Spring Data JPA** and **MySQL** integration
 - Deploying application infrastructure on **AWS EC2** instances, configuring security groups and network settings, and managing cloud resources including **S3 storage** for production deployment
