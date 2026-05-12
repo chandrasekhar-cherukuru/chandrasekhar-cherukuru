@@ -16,6 +16,8 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasekhar.cherukuruu@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917981398515)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekhar-cherukuru&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853)](https://git.io/streak-stats)
+
 </div>
 
 ## 💼 Work Experience
