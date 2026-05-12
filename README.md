@@ -16,7 +16,6 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chandrasekhar.cherukuruu@gmail.com)
 [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+917981398515)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekhar-cherukuru&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853)](https://git.io/streak-stats)
 
 </div>
 
@@ -88,9 +87,7 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 <div align="center">
 
 
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandrasekhar-cherukuru&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=00C853&icon_color=00C853&text_color=FFFFFF&rank_icon=github)
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=chandrasekhar-cherukuru&theme=dark&hide_border=true&background=0D1117&ring=00C853&fire=00C853&currStreakLabel=00C853)](https://git.io/streak-stats)
 </div>
 
 ---
