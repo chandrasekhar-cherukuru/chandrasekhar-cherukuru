@@ -69,7 +69,7 @@ I'm a passionate **Backend Developer** and **Computer Science student** speciali
 `MySQL` `MongoDB`
 
 ### Cloud & DevOps
-`AWS EC2` `AWS S3` `AWS RDS` `Docker` `GitHub Actions` `CI/CD`
+`AWS EC2` `AWS S3` `AWS RDS` `Docker` `GitHub Actions` `CI/CD` `Kubernetes`
 
 ### Frameworks & Tools
 `Spring Boot` `Spring Framework` `Spring Data JPA` `Hibernate ORM` `Spring Security` `JWT` `OAuth2` `Git` `GitHub` `Maven` `IntelliJ IDEA` `VS Code` `Postman` `JUnit` `Mockito`
