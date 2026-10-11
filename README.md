@@ -2,7 +2,6 @@
 
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a passionate **Backend Developer** and **Computer Science student** specializing in building scalable, production-ready applications using **Java Spring Boot**, **AWS Cloud**, and **DevOps practices**. Currently working at **Goloka IT** as a Backend Development Intern, I focus on designing robust REST APIs, cloud infrastructure deployment, and implementing CI/CD pipelines. With **350+ LeetCode problems solved** and hands-on experience in full-stack development, I'm committed to writing clean, efficient code and continuously expanding my technical expertise.
